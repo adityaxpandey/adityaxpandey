@@ -16,7 +16,6 @@ Talk to me about:
 - Solving Data structure and algorithm questions in **Java and Python**.
 ## Hello World!! 🤔
 - 💬 Ask me about anything an everything.
-- 🎯 Portfolio site: [Portfolio](https://harshkumarkhatri.github.io/Portfolio-Site/index.html).
 - ⚡ Fun fact: Internet users blink less than usual.
 
 ![Aditya's github stats](https://github-readme-streak-stats.herokuapp.com/?user=YashKabra11&theme=vue-dark&hide_border=true)    
