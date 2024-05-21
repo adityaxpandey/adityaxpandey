@@ -9,11 +9,11 @@ I am Aditya Pandey 😃. I am from Delhi currently doing my B.Tech from VIT Bhop
 ## ⚡ Technologies
 Talk to me about:
 - Front-end development using **HTML, Javascript, CSS, Bootstrap**.
-- Backend development using **Flask, Django**.
+- Backend development using **Mongo DB, SQL**.
 - Making for **Relational Database Management Systems**.
 - Robust full-stack system design implementation.
 - Mobile application development using **Java**.
-- Solving Data structure and algorithm questions in **Java and Python**.
+- Solving Data structure and algorithm questions in **Java**.
 ## Hello World!! 🤔
 - 💬 Ask me about anything an everything.
 - ⚡ Fun fact: Internet users blink less than usual.
